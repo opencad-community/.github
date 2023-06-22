@@ -1,6 +1,6 @@
 ## 👋 Welcome to the OpenCAD Community 👋
 
-We are a project of @101Schemes-io-L-L-C.
+
 
 <!--
 
